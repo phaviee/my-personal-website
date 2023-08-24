@@ -1,0 +1,16 @@
+body 
+{
+	background-image:url("images/pink-laptop-tu6ly4q5s1lia3oy.jpg");
+}
+h1, p
+{
+	color: purple
+}
+
+video
+{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #ccc;
+}
+
